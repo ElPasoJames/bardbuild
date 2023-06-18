@@ -1,6 +1,6 @@
 # bardbuild
 
-This Repo is being created to see if google bard can code and contribute and entire project into github.
+This Repo is being created for Bard to help me build an awesome project.
 
 Step 1: create a personal access token specific to this repository for Google Bard to contribute
 Step 2: provided the token to Bard and gave permission to contribute to the folder
